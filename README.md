@@ -31,7 +31,7 @@ automation-report/
 - **Frontend**: HTML, CSS, JavaScript, Chart.js
 - **Backend**: Node.js, Express.js
 - **Database**: SQLite
-- **Test Automation**: Playwright
+- **Test Automation**: Playwright (or your prefered tool)
 - **Styling**: Tailwind CSS (optional)
 - **Others**: Live Server, fs-extra
 
