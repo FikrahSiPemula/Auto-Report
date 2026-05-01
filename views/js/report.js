@@ -17,7 +17,6 @@ async function downloadReport() {
   }).toString();
 
   try {
-    // Lakukan request dulu tanpa download
     const response = await fetch(`http://localhost:3001/api/generate-report?${query}`);
 
     if (!response.ok) {
